@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Игорь\\OneDrive\\Рабочий стол\\GB Разработчик\\GitHub для сдачи ДЗ\\Лекция C# 08.03\\Семинар 11.03\\Семинар 11.03.csproj",
-      "projectName": "Семинар 11.03",
-      "projectPath": "C:\\Users\\Игорь\\OneDrive\\Рабочий стол\\GB Разработчик\\GitHub для сдачи ДЗ\\Лекция C# 08.03\\Семинар 11.03\\Семинар 11.03.csproj",
+      "projectUniqueName": "C:\\Users\\Игорь\\OneDrive\\Рабочий стол\\GB Разработчик\\GitHub для сдачи ДЗ\\Семинар 11.03 ДЗ\\Задача 10\\Задача 10.csproj",
+      "projectName": "Задача 10",
+      "projectPath": "C:\\Users\\Игорь\\OneDrive\\Рабочий стол\\GB Разработчик\\GitHub для сдачи ДЗ\\Семинар 11.03 ДЗ\\Задача 10\\Задача 10.csproj",
       "packagesPath": "C:\\Users\\Игорь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Игорь\\OneDrive\\Рабочий стол\\GB Разработчик\\GitHub для сдачи ДЗ\\Лекция C# 08.03\\Семинар 11.03\\obj\\",
+      "outputPath": "C:\\Users\\Игорь\\OneDrive\\Рабочий стол\\GB Разработчик\\GitHub для сдачи ДЗ\\Семинар 11.03 ДЗ\\Задача 10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Игорь\\AppData\\Roaming\\NuGet\\NuGet.Config"
