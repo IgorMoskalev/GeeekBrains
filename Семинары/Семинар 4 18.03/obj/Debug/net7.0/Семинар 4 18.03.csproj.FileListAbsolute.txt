@@ -1,0 +1,15 @@
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\obj\Debug\net7.0\Семинар 4 18.03.csproj.AssemblyReference.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\obj\Debug\net7.0\Семинар 4 18.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\obj\Debug\net7.0\Семинар 4 18.03.AssemblyInfoInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\obj\Debug\net7.0\Семинар 4 18.03.AssemblyInfo.cs
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\obj\Debug\net7.0\Семинар 4 18.03.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\bin\Debug\net7.0\Семинар 4 18.03.exe
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\bin\Debug\net7.0\Семинар 4 18.03.deps.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\bin\Debug\net7.0\Семинар 4 18.03.runtimeconfig.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\bin\Debug\net7.0\Семинар 4 18.03.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\bin\Debug\net7.0\Семинар 4 18.03.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\obj\Debug\net7.0\Семинар 4 18.03.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\obj\Debug\net7.0\refint\Семинар 4 18.03.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\obj\Debug\net7.0\Семинар 4 18.03.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\obj\Debug\net7.0\Семинар 4 18.03.genruntimeconfig.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 4 18.03\obj\Debug\net7.0\ref\Семинар 4 18.03.dll
