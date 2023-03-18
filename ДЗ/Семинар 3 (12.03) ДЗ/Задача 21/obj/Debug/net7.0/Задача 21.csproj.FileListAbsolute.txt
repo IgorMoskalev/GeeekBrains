@@ -1,0 +1,15 @@
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\bin\Debug\net7.0\Задача 21.exe
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\bin\Debug\net7.0\Задача 21.deps.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\bin\Debug\net7.0\Задача 21.runtimeconfig.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\bin\Debug\net7.0\Задача 21.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\bin\Debug\net7.0\Задача 21.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\obj\Debug\net7.0\Задача 21.csproj.AssemblyReference.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\obj\Debug\net7.0\Задача 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\obj\Debug\net7.0\Задача 21.AssemblyInfoInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\obj\Debug\net7.0\Задача 21.AssemblyInfo.cs
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\obj\Debug\net7.0\Задача 21.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\obj\Debug\net7.0\Задача 21.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\obj\Debug\net7.0\refint\Задача 21.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\obj\Debug\net7.0\Задача 21.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\obj\Debug\net7.0\Задача 21.genruntimeconfig.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 3 (12.03) ДЗ\Задача 21\obj\Debug\net7.0\ref\Задача 21.dll
