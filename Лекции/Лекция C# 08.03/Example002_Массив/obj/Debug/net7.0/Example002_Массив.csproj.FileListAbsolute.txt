@@ -1,0 +1,15 @@
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\obj\Debug\net7.0\Example002_Массив.csproj.AssemblyReference.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\obj\Debug\net7.0\Example002_Массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\obj\Debug\net7.0\Example002_Массив.AssemblyInfoInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\obj\Debug\net7.0\Example002_Массив.AssemblyInfo.cs
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\obj\Debug\net7.0\Example002_Массив.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\bin\Debug\net7.0\Example002_Массив.exe
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\bin\Debug\net7.0\Example002_Массив.deps.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\bin\Debug\net7.0\Example002_Массив.runtimeconfig.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\bin\Debug\net7.0\Example002_Массив.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\bin\Debug\net7.0\Example002_Массив.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\obj\Debug\net7.0\Example002_Массив.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\obj\Debug\net7.0\refint\Example002_Массив.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\obj\Debug\net7.0\Example002_Массив.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\obj\Debug\net7.0\Example002_Массив.genruntimeconfig.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция C# 08.03\Example002_Массив\obj\Debug\net7.0\ref\Example002_Массив.dll

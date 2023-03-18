@@ -1,0 +1,15 @@
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\bin\Debug\net7.0\Лекция 3 C# 12.03.exe
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\bin\Debug\net7.0\Лекция 3 C# 12.03.deps.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\bin\Debug\net7.0\Лекция 3 C# 12.03.runtimeconfig.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\bin\Debug\net7.0\Лекция 3 C# 12.03.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\bin\Debug\net7.0\Лекция 3 C# 12.03.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\obj\Debug\net7.0\Лекция 3 C# 12.03.csproj.AssemblyReference.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\obj\Debug\net7.0\Лекция 3 C# 12.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\obj\Debug\net7.0\Лекция 3 C# 12.03.AssemblyInfoInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\obj\Debug\net7.0\Лекция 3 C# 12.03.AssemblyInfo.cs
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\obj\Debug\net7.0\Лекция 3 C# 12.03.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\obj\Debug\net7.0\Лекция 3 C# 12.03.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\obj\Debug\net7.0\refint\Лекция 3 C# 12.03.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\obj\Debug\net7.0\Лекция 3 C# 12.03.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\obj\Debug\net7.0\Лекция 3 C# 12.03.genruntimeconfig.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Лекция 3 C# 12.03\obj\Debug\net7.0\ref\Лекция 3 C# 12.03.dll

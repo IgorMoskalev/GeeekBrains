@@ -1,0 +1,15 @@
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\obj\Debug\net7.0\Задача 13.csproj.AssemblyReference.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\obj\Debug\net7.0\Задача 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\obj\Debug\net7.0\Задача 13.AssemblyInfoInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\obj\Debug\net7.0\Задача 13.AssemblyInfo.cs
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\obj\Debug\net7.0\Задача 13.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\bin\Debug\net7.0\Задача 13.exe
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\bin\Debug\net7.0\Задача 13.deps.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\bin\Debug\net7.0\Задача 13.runtimeconfig.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\bin\Debug\net7.0\Задача 13.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\bin\Debug\net7.0\Задача 13.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\obj\Debug\net7.0\Задача 13.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\obj\Debug\net7.0\refint\Задача 13.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\obj\Debug\net7.0\Задача 13.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\obj\Debug\net7.0\Задача 13.genruntimeconfig.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинар 11.03 ДЗ\Задача 13\obj\Debug\net7.0\ref\Задача 13.dll

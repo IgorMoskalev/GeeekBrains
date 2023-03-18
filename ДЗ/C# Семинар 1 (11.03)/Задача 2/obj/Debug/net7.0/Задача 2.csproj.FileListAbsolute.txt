@@ -1,0 +1,15 @@
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\bin\Debug\net7.0\Задача 2.exe
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\bin\Debug\net7.0\Задача 2.deps.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\bin\Debug\net7.0\Задача 2.runtimeconfig.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\bin\Debug\net7.0\Задача 2.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\bin\Debug\net7.0\Задача 2.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\obj\Debug\net7.0\Задача 2.csproj.AssemblyReference.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\obj\Debug\net7.0\Задача 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\obj\Debug\net7.0\Задача 2.AssemblyInfoInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\obj\Debug\net7.0\Задача 2.AssemblyInfo.cs
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\obj\Debug\net7.0\Задача 2.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\obj\Debug\net7.0\Задача 2.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\obj\Debug\net7.0\refint\Задача 2.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\obj\Debug\net7.0\Задача 2.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\obj\Debug\net7.0\Задача 2.genruntimeconfig.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\C# Семинар 1 (11.03)\Задача 2\obj\Debug\net7.0\ref\Задача 2.dll
