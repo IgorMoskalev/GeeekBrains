@@ -1,0 +1,15 @@
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\obj\Debug\net7.0\Задача 25.csproj.AssemblyReference.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\obj\Debug\net7.0\Задача 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\obj\Debug\net7.0\Задача 25.AssemblyInfoInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\obj\Debug\net7.0\Задача 25.AssemblyInfo.cs
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\obj\Debug\net7.0\Задача 25.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\bin\Debug\net7.0\Задача 25.exe
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\bin\Debug\net7.0\Задача 25.deps.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\bin\Debug\net7.0\Задача 25.runtimeconfig.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\bin\Debug\net7.0\Задача 25.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\bin\Debug\net7.0\Задача 25.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\obj\Debug\net7.0\Задача 25.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\obj\Debug\net7.0\refint\Задача 25.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\obj\Debug\net7.0\Задача 25.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\obj\Debug\net7.0\Задача 25.genruntimeconfig.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 4 (18.03) ДЗ\Задача 25\obj\Debug\net7.0\ref\Задача 25.dll
