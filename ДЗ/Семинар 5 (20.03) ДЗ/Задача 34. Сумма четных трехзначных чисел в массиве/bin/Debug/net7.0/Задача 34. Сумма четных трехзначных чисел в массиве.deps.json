@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Задача 34. Сумма четных трехзначных чисел в массиве/1.0.0": {
+        "runtime": {
+          "Задача 34. Сумма четных трехзначных чисел в массиве.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задача 34. Сумма четных трехзначных чисел в массиве/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
