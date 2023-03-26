@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Задача 38. Разница между Макс и Мин/1.0.0": {
+        "runtime": {
+          "Задача 38. Разница между Макс и Мин.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задача 38. Разница между Макс и Мин/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
