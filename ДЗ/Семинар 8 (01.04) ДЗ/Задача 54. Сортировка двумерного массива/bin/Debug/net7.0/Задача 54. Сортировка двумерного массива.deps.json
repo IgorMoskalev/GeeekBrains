@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Задача 54. Сортировка двумерного массива/1.0.0": {
+        "runtime": {
+          "Задача 54. Сортировка двумерного массива.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задача 54. Сортировка двумерного массива/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
