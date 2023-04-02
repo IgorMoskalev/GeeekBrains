@@ -1,0 +1,15 @@
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\obj\Debug\net7.0\Задача 56. Строка с min суммой.csproj.AssemblyReference.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\obj\Debug\net7.0\Задача 56. Строка с min суммой.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\obj\Debug\net7.0\Задача 56. Строка с min суммой.AssemblyInfoInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\obj\Debug\net7.0\Задача 56. Строка с min суммой.AssemblyInfo.cs
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\obj\Debug\net7.0\Задача 56. Строка с min суммой.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\bin\Debug\net7.0\Задача 56. Строка с min суммой.exe
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\bin\Debug\net7.0\Задача 56. Строка с min суммой.deps.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\bin\Debug\net7.0\Задача 56. Строка с min суммой.runtimeconfig.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\bin\Debug\net7.0\Задача 56. Строка с min суммой.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\bin\Debug\net7.0\Задача 56. Строка с min суммой.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\obj\Debug\net7.0\Задача 56. Строка с min суммой.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\obj\Debug\net7.0\refint\Задача 56. Строка с min суммой.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\obj\Debug\net7.0\Задача 56. Строка с min суммой.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\obj\Debug\net7.0\Задача 56. Строка с min суммой.genruntimeconfig.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\ДЗ\Семинар 8 (01.04) ДЗ\Задача 56. Строка с min суммой\obj\Debug\net7.0\ref\Задача 56. Строка с min суммой.dll
