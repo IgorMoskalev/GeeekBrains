@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Задача 60. Трехмерный массив/1.0.0": {
+        "runtime": {
+          "Задача 60. Трехмерный массив.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задача 60. Трехмерный массив/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
