@@ -1,0 +1,15 @@
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\bin\Debug\net7.0\Семинар 8 02.04.exe
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\bin\Debug\net7.0\Семинар 8 02.04.deps.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\bin\Debug\net7.0\Семинар 8 02.04.runtimeconfig.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\bin\Debug\net7.0\Семинар 8 02.04.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\bin\Debug\net7.0\Семинар 8 02.04.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\obj\Debug\net7.0\Семинар 8 02.04.csproj.AssemblyReference.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\obj\Debug\net7.0\Семинар 8 02.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\obj\Debug\net7.0\Семинар 8 02.04.AssemblyInfoInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\obj\Debug\net7.0\Семинар 8 02.04.AssemblyInfo.cs
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\obj\Debug\net7.0\Семинар 8 02.04.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\obj\Debug\net7.0\Семинар 8 02.04.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\obj\Debug\net7.0\refint\Семинар 8 02.04.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\obj\Debug\net7.0\Семинар 8 02.04.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\obj\Debug\net7.0\Семинар 8 02.04.genruntimeconfig.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\Семинары\Семинар 8 02.04\obj\Debug\net7.0\ref\Семинар 8 02.04.dll
