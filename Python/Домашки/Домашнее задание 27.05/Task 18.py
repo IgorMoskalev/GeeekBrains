@@ -8,6 +8,12 @@
 n = int(input("Введите длину массива "))
 array = [i for i in range(1, n+1)]
 x = int(input("Введите X "))
-if x <= n and x > 0:  
-    print(array.count(x))
-else: print("Число не верное!")
+firstDelta = abs(array[0] - x)
+min = firstDelta
+for i in array:
+    delta = abs(i - x)
+    if delta < firstDelta:
+        firstDelta = delta
+        min = i
+print(min)
+
