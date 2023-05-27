@@ -6,4 +6,7 @@
 
 n = int(input("Введите длину массива "))
 array = [i for i in range(1, n+1)]
-print(array.count(array[0]))
+x = int(input("Введите X "))
+if x <= n and x > 0:  
+    print(array.count(x))
+else: print("Число не верное!")
